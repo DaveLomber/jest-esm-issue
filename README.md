@@ -1,4 +1,4 @@
-# Create react app + jest + enzyme
+# jest + enzyme + swiper
 
 ## Documentation
 
